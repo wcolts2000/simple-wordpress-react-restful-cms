@@ -1,0 +1,17 @@
+{
+  "name": "wordpress_site",
+  "version": "1.0.0",
+  "description": "a simple A simple docker-compose.yml file setting up wordpress, phpmyadmin, and a mysql db container and integrating it with a react frontend using the RESTful wordpress cms",
+  "main": "frontend/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "wordpress",
+    "cms",
+    "react"
+  ],
+  "author": "sean pheneger",
+  "license": "MIT",
+  "dependencies": {}
+}
